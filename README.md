@@ -16,4 +16,4 @@ As principais bibliotecas utilizadas foram:
 * [PyAutoGUI](https://pyautogui.readthedocs.io/): Para automação de mouse e teclado.
 * [Pandas](https://pandas.pydata.org/): Para manipulação e análise de dados.
 * [Plotly](https://plotly.com/python/plotly-express/): Para criar gráficos interativos.
-* [Scikit-learn](https://scikit-learn.org/stable/index.html): Biblioteca Python para machine learning.
+* [Scikit-learn](https://scikit-learn.org/stable/index.html): Para treinamento de machine learning e previsao de Score de clientes do banco.
